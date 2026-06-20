@@ -1,2 +1,14 @@
 # pandasports-cn-notes
-HTML page archive and documentation
+
+静态页面记录中心
+
+这个仓库用于保存自动发布的独立 HTML 页面。
+
+## 内容保存
+
+- 根目录保存页面文件
+- 提交历史记录文件变化
+
+## 文件维护
+
+请以仓库当前文件和提交记录判断最新状态。
